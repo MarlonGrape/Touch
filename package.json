@@ -1,0 +1,8 @@
+{
+  "name": "Touch",
+  "description": "touch anything",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.0.0"
+  }
+}
